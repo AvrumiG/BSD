@@ -1,3 +1,3 @@
 create database HumanbodyDB
 go
-using HumanbodyDB
+use HumanbodyDB
